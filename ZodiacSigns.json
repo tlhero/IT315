@@ -1,0 +1,19 @@
+{
+  "ZodiacSigns":
+  [
+    {"StarSignName":"Aries","StarSignDates":"Mar 21 - Apr 19","SpiritColor":"Red","StarSignTraits":"Dynamic, eager, quick and competive","StarSignImages":"https://raw.githubusercontent.com/tlhero/IT315/main/aries.png","StarSignAddress":"https://www.horoscope.com/zodiac-signs/aries"},
+    {"StarSignName":"Taurus","StarSignDates":"Apr 20 - May 20","SpiritColor":"Pink","StarSignTraits":"Sensual, strong, dependable and creative","StarSignImages":"https://raw.githubusercontent.com/tlhero/IT315/main/taurus.jpg","StarSignAddress":"https://www.horoscope.com/zodiac-signs/taurus"},
+    {"StarSignName":"Gemini","StarSignDates":"May 21 - Jun 20","SpiritColor":"Yellow","StarSignTraits":"Curious, versatile, expressive and kind","StarSignImages":"https://raw.githubusercontent.com/tlhero/IT315/main/gemini.jpg","StarSignAddress":"https://www.horoscope.com/zodiac-signs/gemini"},
+    {"StarSignName":"Cancer","StarSignDates":"Jun 21 - Jul 22","SpiritColor":"Violet","StarSignTraits":"Intuitive, sentimental, compassionate and protective","StarSignImages":"https://raw.githubusercontent.com/tlhero/IT315/main/cancer.jpg","StarSignAddress":"https://www.horoscope.com/zodiac-signs/cancer"},
+    {"StarSignName":"Leo","StarSignDates":"Jul 23 - Aug 22","SpiritColor":"Gold","StarSignTraits":"Dramatic, outgoing, fiery and self-assured","StarSignImages":"https://raw.githubusercontent.com/tlhero/IT315/main/leo.jpg","StarSignAddress":"https://www.horoscope.com/zodiac-signs/leo"},
+    {"StarSignName":"Virgo","StarSignDates":"Aug 23 - Sep 22","SpiritColor":"Silver","StarSignTraits":"Practical, loyal, gentle and analytical","StarSignImages":"https://raw.githubusercontent.com/tlhero/IT315/main/virgo.jpg","StarSignAddress":"https://www.horoscope.com/zodiac-signs/virgo"},
+    {"StarSignName":"Libra","StarSignDates":"Sep 23 - Oct 22","SpiritColor":"Blue","StarSignTraits":"Social, fair-minded, diplomatic and gracious","StarSignImages":"https://raw.githubusercontent.com/tlhero/IT315/main/libra.jpg","StarSignAddress":"https://www.horoscope.com/zodiac-signs/libra"},   
+    {"StarSignName":"Scorpio","StarSignDates":"Oct 23 - Nov 21","SpiritColor":"Black","StarSignTraits":"Stubborn, passionate, resourceful and brave","StarSignImages":"https://raw.githubusercontent.com/tlhero/IT315/main/scorpio.jpg","StarSignAddress":"https://www.horoscope.com/zodiac-signs/scorpio"},
+    {"StarSignName":"Sagittarius","StarSignDates":"Nov 22 - Dec 21","SpiritColor":"Light Blue","StarSignTraits":"Extroverted, optimistic, funny and generous","StarSignImages":"https://raw.githubusercontent.com/tlhero/IT315/main/sagittarius.jpg","StarSignAddress":"https://www.horoscope.com/zodiac-signs/sagittarius"},
+    {"StarSignName":"Capricorn","StarSignDates":"Dec 22 - Jan 19","SpiritColor":"Dark Blue","StarSignTraits":"Serious, independent, disciplined and tenacious","StarSignImages":"https://raw.githubusercontent.com/tlhero/IT315/main/capricorn.jpg","StarSignAddress":"https://www.horoscope.com/zodiac-signs/capricorn"},
+    {"StarSignName":"Aquarius","StarSignDates":"Jan 20 - Feb 18","SpiritColor":"Sky Blue","StarSignTraits":"Deep, imaginative, original and uncompromissing","StarSignImages":"https://raw.githubusercontent.com/tlhero/IT315/main/aquarius.jpg","StarSignAddress":"https://www.horoscope.com/zodiac-signs/aquarius"},
+    {"StarSignName":"Pisces","StarSignDates":"Feb 19 - Mar 20","SpiritColor":"Sea green","StarSignTraits":"Affectionate, empathetic, wise and artistic","StarSignImages":"https://raw.githubusercontent.com/tlhero/IT315/main/pisces.jpg","StarSignAddress":"https://www.horoscope.com/zodiac-signs/pisces"}
+  ],
+  "Status":"OK"
+}
+
